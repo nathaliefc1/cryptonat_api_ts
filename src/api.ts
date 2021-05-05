@@ -18,16 +18,21 @@ app.get("/api/profile", async (req, res) => {
   res.json({ profileRoute });
 });
 
-// Get clients from profileId
-app.get("/api/profile_id", async (req, res) => {
-  const { profileId } = req.params;
-  let query = {};
-  if (profileId !== "undefined") {
-    query = { profileId };
-  }
-  console.log(query);
-  const clients = await Profile.find(query);
-  res.json(clients);
+// app.get("/api/profile_id", async (req, res) => {
+//   const { profileId } = req.params;
+//   let query = {};
+//   if (profileId !== "undefined") {
+//     query = { profileId };
+//   }
+//   console.log(query);
+//   const clients = await Profile.find(query);
+//   res.json(clients);
+// });
+
+app.get("/favorite/:favoriteId", async (req, res) => {
+  console.log(req.params);
+  const data = { title: "SOCIOS" };
+  res.json(data);
 });
 
 app.get("/api/favorite", async (req, res) => {
