@@ -21,7 +21,8 @@
     "typescript": "^4.2.4"
   },
   "scripts": {
-    "dev": "ts-node-dev src/api.ts"
+    "dev": "ts-node-dev src/api.ts",
+    "seed": "ts-node-dev src/scripts/seed.ts"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.0",

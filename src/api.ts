@@ -1,21 +1,45 @@
 import express from "express";
 import { PORT, DBURL } from "./config";
-var cors = require('cors');
+import { Favorite } from "./models/Favorite";
+import { Simulator } from "./models/Simulator";
+import { Profile } from "./models/Profile";
+
 const app = express();
 
-app.use(cors());
+const mongoose = require("mongoose");
+mongoose
+  .connect(`${DBURL}`, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => {
+    console.log(`Connected to DB ${DBURL}`);
+  });
 
-const mongoose = require('mongoose');
-mongoose.connect(`${DBURL}`, {useNewUrlParser: true, useUnifiedTopology: true})
-    .then(() => {
-        console.log(`Connected to DB ${DBURL}`)
-})
+app.get("/api/profile", async (req, res) => {
+  const profileRoute = await Profile.find().lean();
+  res.json({ profileRoute });
+});
 
+// Get clients from profileId
+app.get("/api/profile_id", async (req, res) => {
+  const { profileId } = req.params;
+  let query = {};
+  if (profileId !== "undefined") {
+    query = { profileId };
+  }
+  console.log(query);
+  const clients = await Profile.find(query);
+  res.json(clients);
+});
 
-const userRoute = require('./routes/user');
-app.use('/api/user', userRoute)
+app.get("/api/favorite", async (req, res) => {
+  const favoriteRoute = await Favorite.find().lean();
+  res.json({ favoriteRoute });
+});
 
+app.get("/api/simulator", async (req, res) => {
+  const simulatorRoute = await Simulator.find().lean();
+  res.json({ simulatorRoute });
+});
 
-
-app.listen(PORT, ()=> console.log(`✅  Ready on port http://localhost:${PORT}`));
-
+app.listen(PORT, () =>
+  console.log(`✅  Ready on port http://localhost:${PORT}`)
+);
