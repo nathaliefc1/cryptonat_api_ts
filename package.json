@@ -6,6 +6,7 @@
   "author": "nathaliefc1 <nathaliefc89@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/cors": "^2.8.10",
     "@types/express": "^4.17.11",
     "@types/express-handlebars": "^3.1.0",
     "@types/mongoose": "^5.10.5",

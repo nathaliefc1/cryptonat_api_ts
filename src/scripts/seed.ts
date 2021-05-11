@@ -30,7 +30,8 @@ import { DBURL } from "../config";
   });
   await profile.save();
 
-  const idProfile = await Profile.find().then((e) => {
+  const query = { _id: "6093abb3dfd9da1deeae56f2" };
+  const idProfile = await Profile.findOne(query).then((e) => {
     return e?._id;
   });
 
