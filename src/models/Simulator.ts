@@ -4,12 +4,12 @@ const { Schema } = mongoose;
 
 const schema = new Schema({
   profile_id: String,
-  start_date: Date,
-  check_date: Date,
+  startDate: Date,
+  checkDate: Date,
   cryptocurrency: String,
-  divisa: String,
-  //Crypto_price_start: Number,
-  //Crypto_price_check: Number,
+  euros: String,
+  CryptoPriceStart: Number,
+  CryptoPriceCheck: Number,
 });
 
 export const Simulator = mongoose.model("Simulator", schema);

@@ -25,9 +25,11 @@ router.get("/api/simulator/:profile_id", async (req, res) => {
 });
 
 router.post("/api/simulator", async (req, res) => {
-  const { euros } = req.body;
+  const { euros, cryptocurrency, checkDate } = req.body;
   const newData = {
     euros,
+    cryptocurrency,
+    checkDate,
   };
   console.log(newData);
   const simulator = await Simulator.create(newData);
