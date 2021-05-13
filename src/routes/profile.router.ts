@@ -11,7 +11,6 @@ router.get("/api/profile", async (req, res) => {
 
 router.post("/api/profile", async (req, res) => {
   const { email, name, nickname } = req.body;
-  console.log(req.body);
 
   let profile = await Profile.findOne({
     $or: [{ email }, { nickname }],

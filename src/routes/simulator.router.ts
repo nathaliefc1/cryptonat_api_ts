@@ -15,10 +15,11 @@ router.get("/api/simulator", async (req, res) => {
 });
 
 router.get("/api/simulator/:profile_id", async (req, res) => {
+  console.log("========== ");
   let query = {};
   const { profile_id } = req.params;
+  console.log({ profile_id });
   query = { profile_id };
-  console.log(query);
   const data = await Simulator.find(query);
   res.json(data);
 });
