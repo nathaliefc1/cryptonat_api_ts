@@ -4,13 +4,12 @@ const { Schema } = mongoose;
 
 const schema = new Schema(
   {
-    profile_id: String,
-    startDate: Date,
-    checkDate: Date,
+    profile_id: Schema.Types.ObjectId,
+    dateRecorded: Date,
     cryptocurrency: String,
-    euros: String,
-    CryptoPriceStart: Number,
-    CryptoPriceCheck: Number,
+    euros: Number,
+    price: Number,
+    quantity: Number,
   },
   {
     timestamps: true,

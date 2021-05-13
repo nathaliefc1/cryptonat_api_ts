@@ -15,7 +15,6 @@ router.get("/api/simulator", async (req, res) => {
 });
 
 router.get("/api/simulator/:profile_id", async (req, res) => {
-  console.log(req.params);
   let query = {};
   const { profile_id } = req.params;
   query = { profile_id };
@@ -24,12 +23,11 @@ router.get("/api/simulator/:profile_id", async (req, res) => {
   res.json(data);
 });
 
-router.post("/api/simulator", async (req, res) => {
-  const { euros, cryptocurrency, checkDate } = req.body;
+router.post("/api/simulator/:profile_id", async (req, res) => {
+  const { profile_id } = req.params;
   const newData = {
-    euros,
-    cryptocurrency,
-    checkDate,
+    ...req.body,
+    profile_id,
   };
   console.log(newData);
   const simulator = await Simulator.create(newData);
