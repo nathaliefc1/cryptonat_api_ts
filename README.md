@@ -6,6 +6,8 @@ Es por ello que creé un **criptocurrency calculator** donde puedes consultar en
 
 
 Este proyecto no está totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas.
+https://media.giphy.com/media/mi0bBEcygMJTceAhaw/source.gif
+
 https://media.giphy.com/media/W8cotAPzS9oPcsBa7n/source.gif
 <iframe src="https://giphy.com/embed/W8cotAPzS9oPcsBa7n" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProBItExchange-bitcoin-crypto-fomo-W8cotAPzS9oPcsBa7n">via GIPHY</a></p>
 
