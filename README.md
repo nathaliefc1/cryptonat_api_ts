@@ -1,10 +1,13 @@
 # api
 ## Cryptonat
 
-Este proyecto surge con objetivo principal es ayudar a las personas que quieren entrar al mundo de las cryptocurrency y no sabén cuál es su valor, ni como ni cuanto fluctúa estas nuevas criptomonedas, donde no están listos para invertir dinero real pero si invertir tiempo para ver los resultados pasados unos días o semanas. Es por ello que creé un **criptocurrency calculator** donde puedes consultar en fechas determinadas el precio de las cryptocurrency y guardar tus resultados en tu perfil, con ello tener una idea de las ciptomonedas que fluctuan más o cuáles te favorecen al hacer una "posible inversión". 
+Este proyecto surge con objetivo principal es ayudar a las personas que quieren entrar al mundo de las cryptocurrency y no sabén cuál es su valor, ni como ni cuanto fluctúa estas nuevas criptomonedas, donde no están listos para invertir dinero real pero si invertir tiempo para ver los resultados pasados unos días o semanas. 
+Es por ello que creé un **criptocurrency calculator** donde puedes consultar en fechas determinadas el precio de las cryptocurrency y guardar tus resultados en tu perfil, con ello tener una idea de las ciptomonedas que fluctuan más o cuáles te favorecen al hacer una "posible inversión". 
+
 
 Este proyecto no está totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas.
 https://media.giphy.com/media/W8cotAPzS9oPcsBa7n/source.gif
+<iframe src="https://giphy.com/embed/W8cotAPzS9oPcsBa7n" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProBItExchange-bitcoin-crypto-fomo-W8cotAPzS9oPcsBa7n">via GIPHY</a></p>
 
 
 ###### 1.	¿Qué te ha llevado a elegir este proyecto?
@@ -25,6 +28,32 @@ Bootstrap y Styled-components me encantó porque con poco podía dar cierta prof
 React me gustó por su forma de trabajar desde atomos a todo y puedo mezclar todos mis compoenentes, hacer llamadas a las api, usar auth, javascript, css.. todo puede estár en React y es muy cómodo.
 Auth0 fue muy sencillo de utilizar e incorporar en mi proyecto.
 
+<iframe src="https://giphy.com/embed/mi0bBEcygMJTceAhaw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-interesting-stocks-tonightshow-mi0bBEcygMJTceAhaw">via GIPHY</a></p>
+
+###### Tecnologías utilizadas Front:
+ - Next.js
+ - React
+ - Auth0
+ - typescript
+ - Axios
+ - -swr
+ - Styled-components
+ - Chart.js
+ - lodash
+ - moment
+ 
+ ###### Tecnologías utilizadas Api:
+ - Express
+ - Mongoose
+ - ts-node-dev
+ - Dotenv
+ - typescript
 
 
+Este proyecto se ha convertido en mi bebé, es muy importante para mi, por lo tato mi camino no ha finalizado con él. Seguiré trabajandolo, eliminando errores, mejorando su información para que sea más exacto, agregandole funcionalidades y haciendo que se vea mil veces mejor en cuanto al diseño. 
+Veo mi crecimiento en él ya que mis miedos poco a poco los he ido superando. 
+***Incluso ya tengo compradas mis primeras cryptomonedas.. ***
+<iframe src="https://giphy.com/embed/ioopmOHLqIDfGxLLKG" width="480" height="356" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ioopmOHLqIDfGxLLKG">via GIPHY</a></p>
+
+¡Gracias a Core Code y mis compañeros por enseñarme y apoyarme!
 
