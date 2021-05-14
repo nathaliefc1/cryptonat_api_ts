@@ -6,11 +6,8 @@ Es por ello que creé un **criptocurrency calculator** donde puedes consultar en
 
 
 Este proyecto no está totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas.
-https://media.giphy.com/media/mi0bBEcygMJTceAhaw/source.gif
 
-https://media.giphy.com/media/W8cotAPzS9oPcsBa7n/source.gif
-<iframe src="https://giphy.com/embed/W8cotAPzS9oPcsBa7n" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProBItExchange-bitcoin-crypto-fomo-W8cotAPzS9oPcsBa7n">via GIPHY</a></p>
-
+![Alt Text](https://media.giphy.com/media/mi0bBEcygMJTceAhaw/source.gif)
 
 ###### 1.	¿Qué te ha llevado a elegir este proyecto?
 Elegí este proyecto porque quería hacer algo relacionado con finanzas que es mi backgroud profesional y por la curiosidad de estar en el mundo de cryptocurrency, ese tema que tanto lo hablamos en los Offtopics.  
@@ -30,7 +27,7 @@ Bootstrap y Styled-components me encantó porque con poco podía dar cierta prof
 React me gustó por su forma de trabajar desde atomos a todo y puedo mezclar todos mis compoenentes, hacer llamadas a las api, usar auth, javascript, css.. todo puede estár en React y es muy cómodo.
 Auth0 fue muy sencillo de utilizar e incorporar en mi proyecto.
 
-<iframe src="https://giphy.com/embed/mi0bBEcygMJTceAhaw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-interesting-stocks-tonightshow-mi0bBEcygMJTceAhaw">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/mi0bBEcygMJTceAhaw/giphy.gif)
 
 ###### Tecnologías utilizadas Front:
  - Next.js
@@ -55,7 +52,7 @@ Auth0 fue muy sencillo de utilizar e incorporar en mi proyecto.
 Este proyecto se ha convertido en mi bebé, es muy importante para mi, por lo tato mi camino no ha finalizado con él. Seguiré trabajandolo, eliminando errores, mejorando su información para que sea más exacto, agregandole funcionalidades y haciendo que se vea mil veces mejor en cuanto al diseño. 
 Veo mi crecimiento en él ya que mis miedos poco a poco los he ido superando. 
 ***Incluso ya tengo compradas mis primeras cryptomonedas.. ***
-<iframe src="https://giphy.com/embed/ioopmOHLqIDfGxLLKG" width="480" height="356" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ioopmOHLqIDfGxLLKG">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/ioopmOHLqIDfGxLLKG/giphy.gif)
 
 ¡Gracias a Core Code y mis compañeros por enseñarme y apoyarme!
 
