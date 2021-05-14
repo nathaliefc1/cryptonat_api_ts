@@ -2,10 +2,13 @@
 ## Cryptonat
 
 Este proyecto surge con objetivo principal es ayudar a las personas que quieren entrar al mundo de las cryptocurrency y no sabén cuál es su valor, ni como ni cuanto fluctúa estas nuevas criptomonedas, donde no están listos para invertir dinero real pero si invertir tiempo para ver los resultados pasados unos días o semanas. 
-Es por ello que creé un **criptocurrency calculator** donde puedes consultar en fechas determinadas el precio de las cryptocurrency y guardar tus resultados en tu perfil, con ello tener una idea de las ciptomonedas que fluctuan más o cuáles te favorecen al hacer una "posible inversión". 
+Es por ello que creé un **CRYPTOCURRENCY CALCULATOR** donde puedes consultar en fechas determinadas el precio de las cryptocurrency y guardar tus resultados en tu perfil, con ello tener una idea de las ciptomonedas que fluctuan más o cuáles te favorecen al hacer una "posible inversión". 
+
 ![Alt Text](https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif)
 
-Este proyecto va lejos de estar totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas. Por supuesto, con mucho cuidado y sabiendo invertir.
+Este proyecto va lejos de estar totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas, siempre y cuando sea sabiamente y con cuidado.. 
+Uno de los grandes objetivos no logrado pero que queda para futuro era poder enviar un email cuando el precio de la criptomoneda alcance un precio objetivo establecido por ti o una fecha en particular. 
+Por supuesto, os avisaré cuando logre mi objetivo futuro y esté en funcionamiento. 
 
 ![Alt Text](https://media.giphy.com/media/W8cotAPzS9oPcsBa7n/giphy.gif)
 
@@ -49,9 +52,10 @@ Auth0 fue muy sencillo de utilizar e incorporar en mi proyecto.
  - typescript
 
 
-Este proyecto se ha convertido en mi bebé, es muy importante para mi, por lo tato mi camino no ha finalizado con él. Seguiré trabajandolo, eliminando errores, mejorando su información para que sea más exacto, agregandole funcionalidades y haciendo que se vea mil veces mejor en cuanto al diseño. 
+Este proyecto se ha convertido en mi bebé, es muy importante para mi, por lo tato mi camino no ha finalizado. Seguiré trabajando en mis objetivos futuros, eliminando errores, mejorando su información para que sea más exacto, agregandole funcionalidades y haciendo que se vea mil veces mejor en cuanto al diseño. 
 Veo mi crecimiento en él ya que mis miedos poco a poco los he ido superando. 
-***Incluso ya tengo compradas mis primeras cryptomonedas.. ***
+**Incluso ya tengo compradas mis primeras cryptomonedas.. **
+
 ![Alt Text](https://media.giphy.com/media/ioopmOHLqIDfGxLLKG/giphy.gif)
 
 ¡Gracias a Core Code y mis compañeros por enseñarme y apoyarme!
