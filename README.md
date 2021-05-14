@@ -3,11 +3,11 @@
 
 Este proyecto surge con objetivo principal es ayudar a las personas que quieren entrar al mundo de las cryptocurrency y no sabén cuál es su valor, ni como ni cuanto fluctúa estas nuevas criptomonedas, donde no están listos para invertir dinero real pero si invertir tiempo para ver los resultados pasados unos días o semanas. 
 Es por ello que creé un **criptocurrency calculator** donde puedes consultar en fechas determinadas el precio de las cryptocurrency y guardar tus resultados en tu perfil, con ello tener una idea de las ciptomonedas que fluctuan más o cuáles te favorecen al hacer una "posible inversión". 
+![Alt Text](https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy-downsized-large.gif)
 
+Este proyecto va lejos de estar totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas. Por supuesto, con mucho cuidado y sabiendo invertir.
 
-Este proyecto no está totalmente finalizado ya que hay otras funcionalidades que me gustaría agregar y con ello poder ayudar a romper esas barreras de entreda al mundo de las criptomonedas.
-
-![Alt Text](https://media.giphy.com/media/mi0bBEcygMJTceAhaw/source.gif)
+![Alt Text](https://media.giphy.com/media/W8cotAPzS9oPcsBa7n/giphy.gif)
 
 ###### 1.	¿Qué te ha llevado a elegir este proyecto?
 Elegí este proyecto porque quería hacer algo relacionado con finanzas que es mi backgroud profesional y por la curiosidad de estar en el mundo de cryptocurrency, ese tema que tanto lo hablamos en los Offtopics.  
@@ -56,3 +56,4 @@ Veo mi crecimiento en él ya que mis miedos poco a poco los he ido superando.
 
 ¡Gracias a Core Code y mis compañeros por enseñarme y apoyarme!
 
+![Alt Text](https://media.giphy.com/media/rzCb3XwgyZLI58aWFD/giphy.gif)
